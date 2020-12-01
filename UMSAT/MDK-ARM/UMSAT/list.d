@@ -1,0 +1,12 @@
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+umsat\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+umsat\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+umsat\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+umsat\list.o: ../Core/Inc/FreeRTOSConfig.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+umsat\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

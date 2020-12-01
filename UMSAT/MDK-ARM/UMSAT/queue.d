@@ -1,0 +1,15 @@
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+umsat\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+umsat\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+umsat\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+umsat\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+umsat\queue.o: ../Core/Inc/FreeRTOSConfig.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+umsat\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

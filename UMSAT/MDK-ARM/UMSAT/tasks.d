@@ -1,0 +1,16 @@
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+umsat\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+umsat\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+umsat\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+umsat\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+umsat\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+umsat\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
